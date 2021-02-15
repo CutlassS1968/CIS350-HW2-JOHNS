@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+# CIS350-HW2-JOHNS
+## Evan Johns
 
-You can use the [editor on GitHub](https://github.com/CutlassS1968/CIS350-HW2-JOHNS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I think it'd be really interesting to learn more about Machine Learning and Neural Networks
+    I was originally interested in software development because Video Games, but as time went on I began to enjoy programming more and more for itself rather than a means to enter the gaming industry.
+    It would be interesting to develop a mobile app someday
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Technical Background
 
-### Markdown
+As of writting this, I have completed CIS 241 - System Level Programming and Utilities, CIS 162 - Introduction to Programming I, CIS 163 - Introduction to Programming II and MTH 225 - Discrete Structures which has given me a rudementary understanding and appreciation for programming and experience in Java and C. I am currently enrolled in CIS 263 - Data Structures and Algorithms, and CIS 350 - Introduction to Software Engineering.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Daily Valheim Meme: https://i.redd.it/4sn0zxdyylh61.jpg
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +28,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CutlassS1968/CIS350-HW2-JOHNS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
