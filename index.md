@@ -9,7 +9,7 @@ I think it'd be really interesting to learn more about Machine Learning and Neur
 
 As of writting this, I have completed CIS 241 - System Level Programming and Utilities, CIS 162 - Introduction to Programming I, CIS 163 - Introduction to Programming II and MTH 225 - Discrete Structures which has given me a rudementary understanding and appreciation for programming and experience in Java and C. I am currently enrolled in CIS 263 - Data Structures and Algorithms, and CIS 350 - Introduction to Software Engineering.
 
-Daily Valheim Meme: https://i.redd.it/4sn0zxdyylh61.jpg
+Daily Valheim Meme: [Image](https://i.redd.it/4sn0zxdyylh61.jpg)
 
 ```markdown
 Syntax highlighted code block
