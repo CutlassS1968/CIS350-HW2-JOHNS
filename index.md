@@ -12,7 +12,7 @@ As of writting this, I have completed CIS 241 - System Level Programming and Uti
 [Daily Valheim Meme](https://i.redd.it/4sn0zxdyylh61.jpg)
 
 ```markdown
-// Interesting syntax highlighted code block
+Interesting syntax highlighted code block
 
 public class HelloWorld {
     public static void main(String args[]) {
